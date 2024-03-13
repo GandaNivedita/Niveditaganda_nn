@@ -9,16 +9,7 @@ CNN Model is built to Detect the Melanoma cancer Images.
 We have used ( batchnormalization , augmentation , dropouts ) techniques to enhance the Model Accuracy.
 Train & Validation Accracy Graph will help to analyze the Model Performance.
 
-nbviewer Link : https://nbviewer.org/github/abhinavswarupgit/Melanoma_Detection_Assignment_Upgrad/blob/main/Melanoma_Detection_Project.ipynb
-
-Colab Link ( Public Link ( Setting : Anyone Can View) ) : https://colab.research.google.com/drive/1o5kw0aQ70baIyFj1vkhZAv4FV73PlwI9?usp=sharing
-
-PDF File : https://github.com/abhinavswarupgit/Melanoma_Detection_Assignment_Upgrad/blob/main/Melanoma_Detection_Project.ipynb%20-%20Colaboratory.pdf
-
-Code File : https://github.com/abhinavswarupgit/Melanoma_Detection_Assignment_Upgrad/blob/main/Melanoma_Detection_Project.ipynb
-
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 Google Colab
