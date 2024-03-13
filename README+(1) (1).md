@@ -1,4 +1,4 @@
-# Project Name
+# CNN Melanoma_Detection_Assignment_Upgrad
  multiclass classification model using a custom convolutional neural network in TensorFlow.
 
 ## Table of Contents
